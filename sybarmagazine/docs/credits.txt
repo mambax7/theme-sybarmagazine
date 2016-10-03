@@ -1,0 +1,6 @@
+Credits
+===============
+
+Original by [WpFreeware](http://wpfreeware.com/)
+
+Conversion to XOOPS: Michael Beck (https://github.com/mambax7/)
