@@ -20,8 +20,8 @@ License & Author Details:
 
 CREDITS:
 --------
-* Conversion for XOOPS CMS: **Michael Beck**
-* Design and development: [Bootstrap Taste](https://bootstraptaste.com/)
+* Conversion for [XOOPS CMS 2.5.8.x](http://xoops.org/modules/news/article.php?storyid=6762): **Michael Beck**
+* Design and development: [WpFreeware](http://wpfreeware.com/)
 * Original release distributed as: [SybarMagazine](https://www.wpfreeware.com/sybarmagazine-wordpress-magazine-theme/)
 
 About XOOPS CMS: 
