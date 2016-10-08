@@ -14,12 +14,12 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav custom_nav">
-                        <li class=""><a href="<{xoAppUrl}>">Home</a></li>
-                        <li><a href="<{xoAppUrl}>modules/profile/userinfo.php?uid=1/">Account</a></li>
-                        <li><a href="<{xoAppUrl}>#">Shortcodes</a></li>
-                        <li><a href="<{xoAppUrl}>#">Archive</a></li>
-                        <li><a href="<{xoAppUrl}>#">Contact</a></li>
-                        <li><a href="<{xoImgUrl}>pages/404.tpl">404 Page</a></li>
+                        <li class=""><a href="<{$xoops_url}>">Home</a></li>
+                        <li><a href="<{$xoops_url}>/modules/profile/userinfo.php?uid=1/">Account</a></li>
+                        <li><a href="<{$xoops_url}>/#">Shortcodes</a></li>
+                        <li><a href="<{xoImgUrl}>category-archive.html">Archive</a></li>
+                        <li><a href="<{$xoops_url}>/#">Contact</a></li>
+                        <li><a href="<{xoImgUrl}>404.html">404 Page</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div><!--/.container-fluid -->
@@ -43,18 +43,18 @@
     <div class="header_bottom">
         <div class="logo_area">
             <!-- for your image logo -->
-            <!-- <a class="logo" href="<{xoAppUrl}>">
-             <img src="<{xoImgUrl}>assets/img/logo.jpg" alt="logo">
+            <!-- <a class="logo" href="index.html">
+             <img src="img/logo.jpg" alt="logo">
             </a> -->
 
             <!-- for your text logo -->
-            <a class="logo" href="<{xoAppUrl}>">
+            <a class="logo" href="#">
                 <b>S</b>ybar Magazine
                 <span>A Pro Magazine Theme</span>
             </a>
         </div>
         <div class="top_addarea">
-            <a href="<{$xoops_url}>/#"><img src="<{xoImgUrl}>assets/img/addbanner_728x90_V1.jpg" alt="img"></a>
+            <a href="<{$xoops_url}>/#"><img src="<{xoImgUrl}>img/addbanner_728x90_V1.jpg" alt="img"></a>
         </div>
     </div>
     <!-- start header top area -->
