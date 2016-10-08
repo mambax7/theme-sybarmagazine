@@ -1,14 +1,14 @@
-<{*title = "Page not found"*}>
-<{*url = "/404"*}>
-<{*layout = "default"*}>
-<{*hidden = "0"*}>
-<{*==*}>
-<!-- Section: intro -->
-<section id="intro" class="intro">
-
-    <div class="slogan">
-        <h2>OOPS !!!<span class="text_color"> 404</span> </h2>
-        <h4>SORRY, BUT THE PAGE YOU WAS LOOKING FOR CANNOT BE FOUND.</h4>
+  <section id="errorpage_body">
+    <div class="row">
+    <!-- start left bar content -->
+      <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="errorpage_area">
+           <div class="error-title"><span>404</span></div>
+          <div class="error_content">
+            <p><i class="fa fa-hand-o-right "></i> Sorry, the page you were looking for in this blog does not exist.</p>
+            <a href="<{xoAppUrl}>">Home</a>
+          </div>
+        </div>
+      </div>
     </div>
-</section>
-<!-- /Section: intro -->
+  </section>

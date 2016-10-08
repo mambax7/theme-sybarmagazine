@@ -84,6 +84,7 @@
         <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
             <div class="row">
                 <div class="left_bar">
+                    <{includeq file="$theme_name/tpl/leftBlock.tpl"}>
                     <!-- start single leftbar -->
                     <div class="single_leftbar">
                         <h2><span>Recent Post</span></h2>
@@ -542,6 +543,7 @@
         <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
             <div class="row">
                 <div class="right_bar">
+                    <{includeq file="$theme_name/tpl/rightBlock.tpl"}>
                     <!-- start Popular Post -->
                     <div class="single_leftbar wow fadeInDown">
                         <h2><span>Popular Post</span></h2>
